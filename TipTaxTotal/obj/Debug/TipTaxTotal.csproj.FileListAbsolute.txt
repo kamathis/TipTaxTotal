@@ -1,0 +1,10 @@
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe.config
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.exe
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\bin\Debug\TipTaxTotal.pdb
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csprojResolveAssemblyReference.cache
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.Properties.Resources.resources
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.TipTaxTotal.resources
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csproj.GenerateResource.Cache
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.csproj.CoreCompileInputs.cache
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.exe
+C:\Users\Kristi\source\repos\TipTaxTotal\TipTaxTotal\obj\Debug\TipTaxTotal.pdb
